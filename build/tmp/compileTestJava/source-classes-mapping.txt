@@ -1,0 +1,2 @@
+com/catimagesearch/catimagesearch/CatimagesearchApplicationTests.java
+ com.catimagesearch.catimagesearch.CatimagesearchApplicationTests
